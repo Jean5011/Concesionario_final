@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1161" topLine="85" />
+		</Cursor>
+	</File>
+	<File name="reporte_Tomi.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4608" topLine="109" />
+		</Cursor>
+	</File>
+	<File name="venta.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8028" topLine="81" />
+		</Cursor>
+		<Folding>
+			<Collapse line="65" />
+			<Collapse line="74" />
+			<Collapse line="83" />
+			<Collapse line="92" />
+			<Collapse line="111" />
+			<Collapse line="120" />
+			<Collapse line="129" />
+			<Collapse line="138" />
+			<Collapse line="155" />
+			<Collapse line="166" />
+			<Collapse line="172" />
+			<Collapse line="228" />
+			<Collapse line="267" />
+		</Folding>
+	</File>
+	<File name="cuota.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6431" topLine="119" />
+		</Cursor>
+		<Folding>
+			<Collapse line="40" />
+			<Collapse line="51" />
+			<Collapse line="59" />
+			<Collapse line="70" />
+			<Collapse line="81" />
+			<Collapse line="90" />
+			<Collapse line="99" />
+			<Collapse line="108" />
+			<Collapse line="117" />
+			<Collapse line="127" />
+			<Collapse line="149" />
+			<Collapse line="160" />
+		</Folding>
+	</File>
+	<File name="menus.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6006" topLine="177" />
+		</Cursor>
+	</File>
+	<File name="vendedor.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="425" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="58" />
+			<Collapse line="79" />
+			<Collapse line="89" />
+			<Collapse line="100" />
+			<Collapse line="122" />
+			<Collapse line="132" />
+			<Collapse line="141" />
+		</Folding>
+	</File>
+	<File name="persona.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1729" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="fecha.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1368" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="reporte_Ruben.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3132" topLine="101" />
+		</Cursor>
+	</File>
+	<File name="cliente.h" open="1" top="1" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3664" topLine="70" />
+		</Cursor>
+		<Folding>
+			<Collapse line="14" />
+			<Collapse line="58" />
+			<Collapse line="66" />
+			<Collapse line="75" />
+			<Collapse line="95" />
+			<Collapse line="114" />
+		</Folding>
+	</File>
+	<File name="reporte_Jean.h" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3833" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="vehiculo.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1720" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="12" />
+			<Collapse line="50" />
+			<Collapse line="74" />
+			<Collapse line="85" />
+			<Collapse line="95" />
+			<Collapse line="128" />
+			<Collapse line="136" />
+			<Collapse line="150" />
+			<Collapse line="158" />
+			<Collapse line="184" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,808 @@
+# depslib dependency file v1.0
+1667193872 source:c:\users\ruben\onedrive\escritorio\c.v.7\concesionariav7\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Global.h"
+	"Funciones_Clases.h"
+	"menus.h"
+	"vehiculo.h"
+
+1667151872 c:\users\ruben\onedrive\escritorio\c.v.7\concesionariav7\global.h
+
+1667234880 c:\users\ruben\onedrive\escritorio\c.v.7\concesionariav7\funciones_clases.h
+
+1667059514 c:\users\ruben\onedrive\escritorio\c.v.7\concesionariav7\menus.h
+
+1667193233 c:\users\ruben\onedrive\escritorio\c.v.7\concesionariav7\vehiculo.h
+
+1667252174 source:c:\users\tfmed\desktop\consecionaria\concesionariov9\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Global.h"
+	"Funciones_Clases.h"
+	"menus.h"
+	"vehiculo.h"
+	"vendedor.h"
+
+1667151872 c:\users\tfmed\desktop\consecionaria\concesionariov9\global.h
+
+1667234880 c:\users\tfmed\desktop\consecionaria\concesionariov9\funciones_clases.h
+
+1667253479 c:\users\tfmed\desktop\consecionaria\concesionariov9\menus.h
+
+1667253337 c:\users\tfmed\desktop\consecionaria\concesionariov9\vehiculo.h
+
+1667253319 c:\users\tfmed\desktop\consecionaria\concesionariov9\vendedor.h
+
+1667305801 source:c:\users\tfmed\desktop\consecionaria\concesionariov10\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Global.h"
+	"Funciones_Clases.h"
+	"menus.h"
+	"vehiculo.h"
+	"vendedor.h"
+	"reportes.h"
+	"rlutil.h"
+
+1667151872 c:\users\tfmed\desktop\consecionaria\concesionariov10\global.h
+
+1667234880 c:\users\tfmed\desktop\consecionaria\concesionariov10\funciones_clases.h
+
+1667305273 c:\users\tfmed\desktop\consecionaria\concesionariov10\menus.h
+
+1667306562 c:\users\tfmed\desktop\consecionaria\concesionariov10\vehiculo.h
+
+1667254384 c:\users\tfmed\desktop\consecionaria\concesionariov10\vendedor.h
+
+1667305543 c:\users\tfmed\desktop\consecionaria\concesionariov10\reportes.h
+
+1667305747 c:\users\tfmed\desktop\consecionaria\concesionariov10\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667325303 source:c:\users\tfmed\desktop\consecionaria\concesionariov11\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<ctime>
+	<cmath>
+	"rlutil.h"
+	"Global.h"
+	"Funciones_Clases.h"
+	"menus.h"
+	"vehiculo.h"
+	"persona.h"
+	"vendedor.h"
+	"reportes.h"
+
+1667151872 c:\users\tfmed\desktop\consecionaria\concesionariov11\global.h
+
+1667324124 c:\users\tfmed\desktop\consecionaria\concesionariov11\funciones_clases.h
+
+1667305273 c:\users\tfmed\desktop\consecionaria\concesionariov11\menus.h
+
+1667325312 c:\users\tfmed\desktop\consecionaria\concesionariov11\vehiculo.h
+
+1667326074 c:\users\tfmed\desktop\consecionaria\concesionariov11\persona.h
+
+1667254384 c:\users\tfmed\desktop\consecionaria\concesionariov11\vendedor.h
+
+1667305543 c:\users\tfmed\desktop\consecionaria\concesionariov11\reportes.h
+
+1667305747 c:\users\tfmed\desktop\consecionaria\concesionariov11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667434858 source:c:\users\ruben\onedrive\escritorio\concesionariov13\concesionariov13\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<ctime>
+	<cmath>
+	"rlutil.h"
+	"Global.h"
+	"menus.h"
+	"vehiculo.h"
+	"vendedor.h"
+	"cliente.h"
+	"reportes.h"
+
+1667305748 c:\users\ruben\onedrive\escritorio\concesionariov13\concesionariov13\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667411433 c:\users\ruben\onedrive\escritorio\concesionariov13\concesionariov13\global.h
+
+1667305274 c:\users\ruben\onedrive\escritorio\concesionariov13\concesionariov13\menus.h
+
+1667342709 c:\users\ruben\onedrive\escritorio\concesionariov13\concesionariov13\vehiculo.h
+
+1667434575 c:\users\ruben\onedrive\escritorio\concesionariov13\concesionariov13\vendedor.h
+
+1667411565 c:\users\ruben\onedrive\escritorio\concesionariov13\concesionariov13\cliente.h
+
+1667426613 c:\users\ruben\onedrive\escritorio\concesionariov13\concesionariov13\reportes.h
+
+1667471358 source:c:\users\tfmed\desktop\consecionaria\concesionariov16\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<ctime>
+	<cmath>
+	"rlutil.h"
+	"Global.h"
+	"menus.h"
+	"vehiculo.h"
+	"vendedor.h"
+	"cliente.h"
+	"reportes.h"
+
+1667305748 c:\users\tfmed\desktop\consecionaria\concesionariov16\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667452780 c:\users\tfmed\desktop\consecionaria\concesionariov16\global.h
+
+1667305274 c:\users\tfmed\desktop\consecionaria\concesionariov16\menus.h
+
+1667504429 c:\users\tfmed\desktop\consecionaria\concesionariov16\vehiculo.h
+
+1667452816 c:\users\tfmed\desktop\consecionaria\concesionariov16\vendedor.h
+
+1667411566 c:\users\tfmed\desktop\consecionaria\concesionariov16\cliente.h
+
+1667426614 c:\users\tfmed\desktop\consecionaria\concesionariov16\reportes.h
+
+1667510428 source:c:\users\tfmed\desktop\consecionaria\concesionariov20\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<ctime>
+	<cmath>
+	"rlutil.h"
+	"Global.h"
+	"menus.h"
+	"vehiculo.h"
+	"vendedor.h"
+	"cliente.h"
+	"reportes.h"
+	"venta.h"
+
+1667305748 c:\users\tfmed\desktop\consecionaria\concesionariov20\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667452780 c:\users\tfmed\desktop\consecionaria\concesionariov20\global.h
+
+1667305274 c:\users\tfmed\desktop\consecionaria\concesionariov20\menus.h
+
+1667504430 c:\users\tfmed\desktop\consecionaria\concesionariov20\vehiculo.h
+
+1667504943 c:\users\tfmed\desktop\consecionaria\concesionariov20\vendedor.h
+
+1667505058 c:\users\tfmed\desktop\consecionaria\concesionariov20\cliente.h
+
+1667426614 c:\users\tfmed\desktop\consecionaria\concesionariov20\reportes.h
+
+1667511457 c:\users\tfmed\desktop\consecionaria\concesionariov20\venta.h
+
+1667527391 source:c:\users\tfmed\desktop\consecionaria\concesionariov21\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<ctime>
+	<cmath>
+	"rlutil.h"
+	"Global.h"
+	"menus.h"
+	"vehiculo.h"
+	"vendedor.h"
+	"cliente.h"
+	"reportes.h"
+	"venta.h"
+
+1667305748 c:\users\tfmed\desktop\consecionaria\concesionariov21\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667452780 c:\users\tfmed\desktop\consecionaria\concesionariov21\global.h
+
+1667305274 c:\users\tfmed\desktop\consecionaria\concesionariov21\menus.h
+
+1667527391 c:\users\tfmed\desktop\consecionaria\concesionariov21\vehiculo.h
+
+1667504943 c:\users\tfmed\desktop\consecionaria\concesionariov21\vendedor.h
+
+1667505058 c:\users\tfmed\desktop\consecionaria\concesionariov21\cliente.h
+
+1667426614 c:\users\tfmed\desktop\consecionaria\concesionariov21\reportes.h
+
+1667529423 c:\users\tfmed\desktop\consecionaria\concesionariov21\venta.h
+
+1667687020 source:c:\users\ruben\onedrive\escritorio\concesionariov23\concesionariov23\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<ctime>
+	<cmath>
+	"rlutil.h"
+	"Global.h"
+	"menus.h"
+	"vehiculo.h"
+	"vendedor.h"
+	"cliente.h"
+	"reportes.h"
+	"venta.h"
+	"cuota.h"
+
+1667305748 c:\users\ruben\onedrive\escritorio\concesionariov23\concesionariov23\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667452780 c:\users\ruben\onedrive\escritorio\concesionariov23\concesionariov23\global.h
+
+1667530818 c:\users\ruben\onedrive\escritorio\concesionariov23\concesionariov23\menus.h
+
+1667672767 c:\users\ruben\onedrive\escritorio\concesionariov23\concesionariov23\vehiculo.h
+
+1667674939 c:\users\ruben\onedrive\escritorio\concesionariov23\concesionariov23\vendedor.h
+
+1667671634 c:\users\ruben\onedrive\escritorio\concesionariov23\concesionariov23\cliente.h
+
+1667426614 c:\users\ruben\onedrive\escritorio\concesionariov23\concesionariov23\reportes.h
+
+1667686998 c:\users\ruben\onedrive\escritorio\concesionariov23\concesionariov23\venta.h
+
+1667531338 c:\users\ruben\onedrive\escritorio\concesionariov23\concesionariov23\cuota.h
+
+1667780157 source:c:\users\tfmed\desktop\consecionaria\concesionariov24\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<cmath>
+	"rlutil.h"
+	"Global.h"
+	"menus.h"
+	"vehiculo.h"
+	"vendedor.h"
+	"cliente.h"
+	"reportes.h"
+	"venta.h"
+	"cuota.h"
+
+1667305748 c:\users\tfmed\desktop\consecionaria\concesionariov24\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667452780 c:\users\tfmed\desktop\consecionaria\concesionariov24\global.h
+
+1667530818 c:\users\tfmed\desktop\consecionaria\concesionariov24\menus.h
+
+1667786818 c:\users\tfmed\desktop\consecionaria\concesionariov24\vehiculo.h
+
+1667674939 c:\users\tfmed\desktop\consecionaria\concesionariov24\vendedor.h
+
+1667671634 c:\users\tfmed\desktop\consecionaria\concesionariov24\cliente.h
+
+1667426614 c:\users\tfmed\desktop\consecionaria\concesionariov24\reportes.h
+
+1667686998 c:\users\tfmed\desktop\consecionaria\concesionariov24\venta.h
+
+1667531338 c:\users\tfmed\desktop\consecionaria\concesionariov24\cuota.h
+
+1668488913 source:c:\users\tfmed\desktop\consecionaria\concesionariov27\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<cmath>
+	"rlutil.h"
+	"Global.h"
+	"menus.h"
+	"vehiculo.h"
+	"vendedor.h"
+	"cliente.h"
+	"venta.h"
+	"cuota.h"
+	"configuracion.h"
+	"reporte_Tomi.h"
+
+1667305748 c:\users\tfmed\desktop\consecionaria\concesionariov27\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668406198 c:\users\tfmed\desktop\consecionaria\concesionariov27\global.h
+
+1668488291 c:\users\tfmed\desktop\consecionaria\concesionariov27\menus.h
+
+1668532052 c:\users\tfmed\desktop\consecionaria\concesionariov27\vehiculo.h
+
+1668481904 c:\users\tfmed\desktop\consecionaria\concesionariov27\vendedor.h
+
+1668482025 c:\users\tfmed\desktop\consecionaria\concesionariov27\cliente.h
+
+1668534978 c:\users\tfmed\desktop\consecionaria\concesionariov27\venta.h
+
+1668537430 c:\users\tfmed\desktop\consecionaria\concesionariov27\cuota.h
+
+1668479824 c:\users\tfmed\desktop\consecionaria\concesionariov27\configuracion.h
+
+1668488885 c:\users\tfmed\desktop\consecionaria\concesionariov27\reporte_tomi.h
+
+1668672866 source:c:\users\tfmed\desktop\consecionaria\concesionariov32\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<cmath>
+	"Global.h"
+	"menus.h"
+	"vehiculo.h"
+	"vendedor.h"
+	"cliente.h"
+	"venta.h"
+	"cuota.h"
+	"configuracion.h"
+	"reporte_Tomi.h"
+	"reporte_Ruben.h"
+	"reporte_Jean.h"
+
+1668406200 c:\users\tfmed\desktop\consecionaria\concesionariov32\global.h
+
+1668663895 c:\users\tfmed\desktop\consecionaria\concesionariov32\menus.h
+
+1668673197 c:\users\tfmed\desktop\consecionaria\concesionariov32\vehiculo.h
+
+1668573283 c:\users\tfmed\desktop\consecionaria\concesionariov32\vendedor.h
+
+1668573297 c:\users\tfmed\desktop\consecionaria\concesionariov32\cliente.h
+
+1668573267 c:\users\tfmed\desktop\consecionaria\concesionariov32\venta.h
+
+1668573500 c:\users\tfmed\desktop\consecionaria\concesionariov32\cuota.h
+
+1668573914 c:\users\tfmed\desktop\consecionaria\concesionariov32\configuracion.h
+
+1668664131 c:\users\tfmed\desktop\consecionaria\concesionariov32\reporte_tomi.h
+
+1668664371 c:\users\tfmed\desktop\consecionaria\concesionariov32\reporte_ruben.h
+
+1668664533 c:\users\tfmed\desktop\consecionaria\concesionariov32\reporte_jean.h
+
+1668894668 source:c:\users\tfmed\desktop\consecionaria\concesionario_final\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<cmath>
+	"fecha.h"
+	"persona.h"
+	"menus.h"
+	"vehiculo.h"
+	"vendedor.h"
+	"cliente.h"
+	"venta.h"
+	"cuota.h"
+	"configuracion.h"
+	"reporte_Tomi.h"
+	"reporte_Ruben.h"
+	"reporte_Jean.h"
+
+1668679770 c:\users\tfmed\desktop\consecionaria\concesionario_final\global.h
+
+1668675868 c:\users\tfmed\desktop\consecionaria\concesionario_final\menus.h
+
+1668893690 c:\users\tfmed\desktop\consecionaria\concesionario_final\vehiculo.h
+
+1668893722 c:\users\tfmed\desktop\consecionaria\concesionario_final\vendedor.h
+
+1668573298 c:\users\tfmed\desktop\consecionaria\concesionario_final\cliente.h
+
+1668893757 c:\users\tfmed\desktop\consecionaria\concesionario_final\venta.h
+
+1668893787 c:\users\tfmed\desktop\consecionaria\concesionario_final\cuota.h
+
+1668686804 c:\users\tfmed\desktop\consecionaria\concesionario_final\configuracion.h
+
+1668894100 c:\users\tfmed\desktop\consecionaria\concesionario_final\reporte_tomi.h
+
+1668675890 c:\users\tfmed\desktop\consecionaria\concesionario_final\reporte_ruben.h
+
+1668685585 c:\users\tfmed\desktop\consecionaria\concesionario_final\reporte_jean.h
+
+1668894531 c:\users\tfmed\desktop\consecionaria\concesionario_final\fecha.h
+
+1668894672 c:\users\tfmed\desktop\consecionaria\concesionario_final\persona.h
+
+1669001519 source:c:\users\tfmed\desktop\consecionaria\concesionariov1\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"fecha.h"
+	"persona.h"
+	"menus.h"
+	"vehiculo.h"
+	"vendedor.h"
+	"cliente.h"
+	"venta.h"
+	"cuota.h"
+	"configuracion.h"
+	"reporte_Tomi.h"
+	"reporte_Ruben.h"
+	"reporte_Jean.h"
+
+1668895947 c:\users\tfmed\desktop\consecionaria\concesionariov1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668894531 c:\users\tfmed\desktop\consecionaria\concesionariov1\fecha.h
+
+1668894672 c:\users\tfmed\desktop\consecionaria\concesionariov1\persona.h
+
+1669001849 c:\users\tfmed\desktop\consecionaria\concesionariov1\menus.h
+
+1668893690 c:\users\tfmed\desktop\consecionaria\concesionariov1\vehiculo.h
+
+1668893722 c:\users\tfmed\desktop\consecionaria\concesionariov1\vendedor.h
+
+1668573298 c:\users\tfmed\desktop\consecionaria\concesionariov1\cliente.h
+
+1668893757 c:\users\tfmed\desktop\consecionaria\concesionariov1\venta.h
+
+1668893787 c:\users\tfmed\desktop\consecionaria\concesionariov1\cuota.h
+
+1668686804 c:\users\tfmed\desktop\consecionaria\concesionariov1\configuracion.h
+
+1668894100 c:\users\tfmed\desktop\consecionaria\concesionariov1\reporte_tomi.h
+
+1668675890 c:\users\tfmed\desktop\consecionaria\concesionariov1\reporte_ruben.h
+
+1668685585 c:\users\tfmed\desktop\consecionaria\concesionariov1\reporte_jean.h
+
+1669075644 source:c:\users\tfmed\desktop\consecionaria\concesionariov2\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"fecha.h"
+	"persona.h"
+	"menus.h"
+	"vehiculo.h"
+	"vendedor.h"
+	"cliente.h"
+	"venta.h"
+	"cuota.h"
+	"configuracion.h"
+	"reporte_Tomi.h"
+	"reporte_Ruben.h"
+	"reporte_Jean.h"
+
+1668895947 c:\users\tfmed\desktop\consecionaria\concesionariov2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668894531 c:\users\tfmed\desktop\consecionaria\concesionariov2\fecha.h
+
+1668894672 c:\users\tfmed\desktop\consecionaria\concesionariov2\persona.h
+
+1669081918 c:\users\tfmed\desktop\consecionaria\concesionariov2\menus.h
+
+1669060785 c:\users\tfmed\desktop\consecionaria\concesionariov2\vehiculo.h
+
+1668893722 c:\users\tfmed\desktop\consecionaria\concesionariov2\vendedor.h
+
+1668573298 c:\users\tfmed\desktop\consecionaria\concesionariov2\cliente.h
+
+1668893757 c:\users\tfmed\desktop\consecionaria\concesionariov2\venta.h
+
+1668893787 c:\users\tfmed\desktop\consecionaria\concesionariov2\cuota.h
+
+1668686804 c:\users\tfmed\desktop\consecionaria\concesionariov2\configuracion.h
+
+1668894100 c:\users\tfmed\desktop\consecionaria\concesionariov2\reporte_tomi.h
+
+1668675890 c:\users\tfmed\desktop\consecionaria\concesionariov2\reporte_ruben.h
+
+1668685585 c:\users\tfmed\desktop\consecionaria\concesionariov2\reporte_jean.h
+
+1669572443 source:c:\users\tfmed\desktop\consecionaria\concesionariov4\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"fecha.h"
+	"persona.h"
+	"menus.h"
+	"vehiculo.h"
+	"vendedor.h"
+	"cliente.h"
+	"venta.h"
+	"cuota.h"
+	"configuracion.h"
+	"reporte_Tomi.h"
+	"reporte_Ruben.h"
+	"reporte_Jean.h"
+
+1668895948 c:\users\tfmed\desktop\consecionaria\concesionariov4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1670321877 c:\users\tfmed\desktop\consecionaria\concesionariov4\fecha.h
+
+1668894674 c:\users\tfmed\desktop\consecionaria\concesionariov4\persona.h
+
+1670261727 c:\users\tfmed\desktop\consecionaria\concesionariov4\menus.h
+
+1670327670 c:\users\tfmed\desktop\consecionaria\concesionariov4\vehiculo.h
+
+1670328648 c:\users\tfmed\desktop\consecionaria\concesionariov4\vendedor.h
+
+1668573298 c:\users\tfmed\desktop\consecionaria\concesionariov4\cliente.h
+
+1668893758 c:\users\tfmed\desktop\consecionaria\concesionariov4\venta.h
+
+1668893788 c:\users\tfmed\desktop\consecionaria\concesionariov4\cuota.h
+
+1668686806 c:\users\tfmed\desktop\consecionaria\concesionariov4\configuracion.h
+
+1669570451 c:\users\tfmed\desktop\consecionaria\concesionariov4\reporte_tomi.h
+
+1670328825 c:\users\tfmed\desktop\consecionaria\concesionariov4\reporte_ruben.h
+
+1668685586 c:\users\tfmed\desktop\consecionaria\concesionariov4\reporte_jean.h
+
+1669572443 source:c:\users\tfmed\desktop\cmas\consecionaria\concesionariov4\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"fecha.h"
+	"persona.h"
+	"menus.h"
+	"vehiculo.h"
+	"vendedor.h"
+	"cliente.h"
+	"venta.h"
+	"cuota.h"
+	"configuracion.h"
+	"reporte_Tomi.h"
+	"reporte_Ruben.h"
+	"reporte_Jean.h"
+
+1668895948 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1670321877 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov4\fecha.h
+
+1670513248 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov4\persona.h
+
+1670261727 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov4\menus.h
+
+1670511901 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov4\vehiculo.h
+
+1670522332 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov4\vendedor.h
+
+1670521498 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov4\cliente.h
+
+1670521548 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov4\venta.h
+
+1670523790 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov4\cuota.h
+
+1668686806 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov4\configuracion.h
+
+1669570451 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov4\reporte_tomi.h
+
+1670328825 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov4\reporte_ruben.h
+
+1670520941 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov4\reporte_jean.h
+
+1669572443 source:c:\users\tfmed\desktop\cmas\consecionaria\concesionariov5\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"fecha.h"
+	"persona.h"
+	"menus.h"
+	"vehiculo.h"
+	"vendedor.h"
+	"cliente.h"
+	"venta.h"
+	"cuota.h"
+	"configuracion.h"
+	"reporte_Tomi.h"
+	"reporte_Ruben.h"
+	"reporte_Jean.h"
+
+1668895948 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov5\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1670321877 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov5\fecha.h
+
+1670513248 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov5\persona.h
+
+1670261727 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov5\menus.h
+
+1670598195 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov5\vehiculo.h
+
+1670598290 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov5\vendedor.h
+
+1670594443 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov5\cliente.h
+
+1670598313 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov5\venta.h
+
+1670523790 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov5\cuota.h
+
+1668686806 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov5\configuracion.h
+
+1670595216 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov5\reporte_tomi.h
+
+1670596830 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov5\reporte_ruben.h
+
+1670596020 c:\users\tfmed\desktop\cmas\consecionaria\concesionariov5\reporte_jean.h
+
